@@ -1,1 +1,1 @@
-# java-queryable-map
+# Queryable Map
